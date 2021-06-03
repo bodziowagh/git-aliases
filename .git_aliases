@@ -1,0 +1,6 @@
+alias ggcb='git checkout -b '    	# Checkout to a new branch (Git Checkout to Branch)
+alias ggc='git checkout '		# Git checkout (Git Checkout)
+alias gggb='git checkout -'           	# Go to the previous branch (Git Go Back)
+alias ggs='git status'             	# Git status (Git Status)
+alias gga='git add --all'       	# Git add all unstaged files (Git Add all)
+alias ggcmm='git commit -m '		# Git commit with message (Git Commit Message)
